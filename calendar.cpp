@@ -17,7 +17,7 @@ int main()
     std::cout << '\n';
     std::cout << "  " << getMonth(month) << " " << year << '\n';
     std::cout << "  Su  Mo  Tu  We  Th  Fr  Sa" << '\n';
-    std::cout << "  --------------------------" << '\n';
+    std::cout << "  ••••••••••••••••••••••••••" << '\n';
 
     for (int d = 1; d <= monthEnd; d++)
     {

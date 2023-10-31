@@ -13,4 +13,4 @@ main:
 
 
 clean:
-	$(RM) calculator
+	$(RM) calendar

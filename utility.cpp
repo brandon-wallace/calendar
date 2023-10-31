@@ -123,9 +123,6 @@ std::string getMonth(int m)
             break;
     }
 
-    for (auto & c: month)
-        c = (char)toupper(c);
-
     return month;
 }
 
